@@ -1,4 +1,4 @@
-package com.payment.common.model;
+package com.jsonconsumer.common.model;
 
 import lombok.Getter;
 import lombok.ToString;
